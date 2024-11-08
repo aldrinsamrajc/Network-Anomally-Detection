@@ -1,1 +1,0 @@
-This project demonstrates a statistical approach to detecting network anomalies using Z-score analysis. By calculating Z-scores for network traffic data, it identifies outliers that may indicate abnormal or suspicious network activity. A Z-score above 3 or below -3 flags an entry as an anomaly, highlighting potential network security issues.
